@@ -9,11 +9,11 @@ It uses jwt-go to provide a jwt authentication middleware. It provides additiona
 Download and install
 
 ```sh
-$ go get https://github.com/triphop/gfjwt
+go get github.com/triphop/gfjwt
 ```
 
 Import
 
 ```go
-import "https://github.com/triphop/gfjwt"
+import "github.com/triphop/gfjwt"
 ```
